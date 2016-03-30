@@ -1,0 +1,14 @@
+{
+  "description": "",
+  "main": "generators/index.js",
+  "name": "generator-yeoman_template-basic",
+  "version": "0.1.0",
+
+  "keywords": [
+    "yeoman-generator"
+  ],
+
+  "dependencies": {
+    "yeoman-generator": "^0.20.3"
+  }
+}
